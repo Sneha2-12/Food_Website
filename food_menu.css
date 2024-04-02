@@ -1,0 +1,115 @@
+#Meals{
+    border:2px solid black;
+    padding:10px;
+    margin:50px;
+    font-size: 30px;
+    color:white;
+    background: url(meals.jpg);
+    background-size: 100vw 100vh;
+    opacity:0.8;
+    
+
+}
+
+#Desserts{
+    border:2px solid black;
+    /* display:inline-block; */
+    padding:10px;
+    margin:50px;
+    font-size: 30px;
+    background: url(desserts.jpg);
+    background-size: 100vw 100vh;
+    opacity:0.8;
+    
+}
+
+#Snacks{
+    border:2px solid black;
+    /* display:inline-block; */
+    padding:10px;
+    margin:50px;
+    font-size: 30px;
+    background: url(snacks.jpg);
+    background-size: 100vw 100vh;
+    opacity:0.8;
+    
+}
+
+#Drinks{
+    border:2px solid black;
+    /* display:inline-block; */
+    padding:10px;
+    margin:50px;
+    font-size: 30px;
+    background: url(drinks.jpg);
+    background-size: 350px 500px;
+    
+    background-repeat: no repeat;
+    opacity:0.8;
+    
+    
+}
+
+/* ul li{
+    padding-left: 0;
+    color:white;
+    z-index: 35;
+} */
+
+h3{
+    padding-left: 45%;
+    /* color:aliceblue; */
+}
+
+body{
+    background-color: black;
+}
+
+#m{
+    color:white;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#d{
+    color:rgb(237, 29, 185);
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#s{
+    color:red;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 100px pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#dr{
+    color:white;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 100px pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.items_snacks{
+    color:green;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.items_desserts{
+    color:darkblue;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.items_drinks{
+    color:white;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
